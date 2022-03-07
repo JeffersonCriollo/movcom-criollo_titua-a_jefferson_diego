@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecyclerViewTelegram</string>
+    <string name="NombreApp">Telegram</string>
+    <string name="Chats">Chats</string>
+    <string name="Estados">Estados</string>
+    <string name="Llamadas">Llamadas</string>
+    <string name="Mensaje">Mensaje</string>
+    <string name="Responder">Responder</string>
+    <string name="MiEstado">Mi Estado</string>
+    <string name="AddEstado">Añade una actualización</string>
+    <string name="Vistos">Vistos</string>
+</resources>
