@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199040841124",
+    "project_id": "examen-2bimestre",
+    "storage_bucket": "examen-2bimestre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199040841124:android:1c0e4be258691c5e8cfd31",
+        "android_client_info": {
+          "package_name": "com.example.examen1b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199040841124-g5hsqhajktapjk9leot2u19b5dhe3eb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6mdg4FGL4rIObqdw-K1jMi3dGYIrfvFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199040841124-g5hsqhajktapjk9leot2u19b5dhe3eb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

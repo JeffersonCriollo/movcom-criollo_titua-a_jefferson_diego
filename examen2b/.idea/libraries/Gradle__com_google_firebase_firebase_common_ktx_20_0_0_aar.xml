@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-common-ktx:20.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/181b24d4d8106a266dce4d8795b5b432/transformed/jetified-firebase-common-ktx-20.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/5d013ab2d70f5c8fccf9c6e33b2bb03f/transformed/jetified-firebase-common-ktx-20.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/5d013ab2d70f5c8fccf9c6e33b2bb03f/transformed/jetified-firebase-common-ktx-20.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/5d013ab2d70f5c8fccf9c6e33b2bb03f/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/modules-2/files-2.1/com.google.firebase/firebase-common-ktx/20.0.0/5807d2d527446d5e8fdf4decd297daf8a0c45cf1/firebase-common-ktx-20.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

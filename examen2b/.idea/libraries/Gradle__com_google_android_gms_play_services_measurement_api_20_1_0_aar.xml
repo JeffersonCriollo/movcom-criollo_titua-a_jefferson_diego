@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-api:20.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/2429cd403791fdedc6de343235e653a2/transformed/jetified-play-services-measurement-api-20.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/9c30911a37d619a72c1517615d6ff5ed/transformed/jetified-play-services-measurement-api-20.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/9c30911a37d619a72c1517615d6ff5ed/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/9c30911a37d619a72c1517615d6ff5ed/transformed/jetified-play-services-measurement-api-20.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-api/20.1.0/c7188b86d3d1458af3c2a9797afb43531e83bbf7/play-services-measurement-api-20.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

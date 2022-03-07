@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Descargas\\movcom-criollo_titua-a_jefferson_diego-main\\movcom-criollo_titua-a_jefferson_diego-main\\examen1b\\examen1b\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "D:\\Descargas\\section_recyclerview_example-master\\section_recyclerview_example-master\\caches\\transforms-3\\228fd0cd237ceb18054a4389df6862e2\\transformed\\appcompat-1.4.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

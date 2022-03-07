@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.print:print:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/8f0d032d03a184cc28ffc6ca82b7efa8/transformed/print-1.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7f921c292c0c1c9b145dfa23564ac847/transformed/print-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/2cb0c1cf02a4ba3d9e42676f35406e53/transformed/print-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/8f0d032d03a184cc28ffc6ca82b7efa8/transformed/print-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/8f0d032d03a184cc28ffc6ca82b7efa8/transformed/print-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/8f0d032d03a184cc28ffc6ca82b7efa8/transformed/print-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/modules-2/files-2.1/androidx.print/print/1.0.0/71fc2d9acf7cce6b96230c5af263268b1664914a/print-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

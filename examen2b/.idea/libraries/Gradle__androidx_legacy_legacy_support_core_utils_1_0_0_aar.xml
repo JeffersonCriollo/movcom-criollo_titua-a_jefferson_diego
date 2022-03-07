@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1c55477c4573b1fcdb3348b9abe5de64/transformed/legacy-support-core-utils-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/3a5d1de1cad4429ba852e4a4661854cb/transformed/legacy-support-core-utils-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/20414fcda2036db667c670bc1bd1a8fc/transformed/legacy-support-core-utils-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/20414fcda2036db667c670bc1bd1a8fc/transformed/legacy-support-core-utils-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/transforms-3/20414fcda2036db667c670bc1bd1a8fc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../section_recyclerview_example-master/section_recyclerview_example-master/caches/modules-2/files-2.1/androidx.legacy/legacy-support-core-utils/1.0.0/46c37f178088153618cfb0afef08ec96c48f93cb/legacy-support-core-utils-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
